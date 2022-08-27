@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Javascript",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./FEEDIT.gif",
+    image: "./FEEDIT-2.gif",
     link: "https://jnordan132.github.io/FEEDIT/",
   },
   {
