@@ -8,6 +8,14 @@ export const projects = [
     link: "https://github.com/ebront08/employeemanagementsystem",
   },
   {
+    title: "FEEDIT-Restaurant application",
+    subtitle: "Javascript",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./FEEDIT.gif",
+    link: "https://jnordan132.github.io/FEEDIT/",
+  },
+  {
     title: "Fitness Tracker",
     subtitle: "Nosql",
     description:

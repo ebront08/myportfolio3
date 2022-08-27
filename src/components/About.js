@@ -13,9 +13,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsums dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          Full stack web developer leveraging background in history, and library science to provide unique perspectives on how end-users interact with websites and software platforms. Earned a certificate in Full Stack Web Development from the University of North Carolina at Chapel Hill Coding Boot Camp. Innovative problem-solver who is passionate about developing apps with a focus on mobile-first design and development. Strengths in creativity, teamwork, and building projects from ideation to execution. I am skilled in HTML5, CCS, Bootstrap, and JavaScript, jQuery, Node.js, React.js, MERN Stack, MongoDB, MySQL, and NoSQL. Having an appetite for continuous learning, collaboration, and problem-solving, I plan to create and maintain websites, while also developing iOS & Android apps. Equally passionate about building applications that assist everyday people to make their lives easier. 
           </p>
           <div className="flex justify-center">
             <a
