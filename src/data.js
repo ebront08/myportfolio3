@@ -24,14 +24,6 @@ export const projects = [
     link: "https://github.com/ebront08/fitnesstracker",
   },
   {
-    title: "Notetaker",
-    subtitle: "Express.js",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./notetaker.gif",
-    link: "https://github.com/ebront08/notetaker",
-  },
-  {
     title: "Resume",
     subtitle: "FullStack Resume",
     description:
